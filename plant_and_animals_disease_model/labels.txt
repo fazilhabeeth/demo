@@ -1,0 +1,14 @@
+0 healthy apple
+1 apple scab
+2 cherry healthy
+3 cherry powdery mildew
+4 corn healthy
+5 corn common rust
+6 grape healthy
+7 grape black rot
+8 peach healthy
+9 peach bacterial spot
+10 rabies
+11 anthrax
+12 bovine viral diarrohea BVD 
+13 q fever
